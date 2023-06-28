@@ -9,7 +9,7 @@
     "dev": "nodemon ./"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nicolás Cieri Salcedo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
